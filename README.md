@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Adam Czene<br>A passionate frontend developer from Slovakia<br><br>- 🔭 I’m currently working on NEO_6M_GPS<br><br>- 🌱 I’m currently learning cybersecurity<br><br>- 📫 How to reach me: adam.czene2007@gmail.com<br><br>
+Hi 👋, I'm Adam Czene<br>A passionate cybersecurity hobbyist from Slovakia<br><br>- 🔭 I’m currently working on NEO_6M_GPS<br><br>- 🌱 I’m currently learning cybersecurity<br><br>- 📫 How to reach me: adam.czene2007@gmail.com<br><br>
 
 <!-- Snake Game Repo View -->
 
