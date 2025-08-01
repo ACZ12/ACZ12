@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adam Czene</h1>
-<h3 align="center">A passionate frontend developer from Slovakia</h3>
+<h3 align="center">A passionate cybersecurity hobbyist from Slovakia</h3>
 
 - 🔭 I’m currently working on [NEO_6M_GPS](https://github.com/ACZ12/NEO_6M_GPS)
 
